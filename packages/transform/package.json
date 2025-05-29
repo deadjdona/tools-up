@@ -10,7 +10,7 @@
     },
     "dependencies": {
         "common": "^0.0.0",
-        "monaco-editor": "^0.20.0",
+        "monaco-editor": "^0.52.2",
         "monaco-editor-webpack-plugin": "^7.1.0",
         "oboe": "^2.1.5",
         "papaparse": "^5.1.1",
