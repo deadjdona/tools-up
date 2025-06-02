@@ -1232,9 +1232,9 @@
     teeny-request "^9.0.0"
 
 "@google-cloud/logging-winston@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@google-cloud/logging-winston/-/logging-winston-6.0.0.tgz#ef7ed3af9669297fa8df8ff4aeffe143f8bfe85c"
-  integrity sha512-/lVp7CyT3nFOr+AjQlZnJhTIOf+kcNGB4JTziL0fkX6Ov/2qNKtRGS/NqE6cD+VSPiv5jLOty3LgkRsXMpYxQQ==
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/@google-cloud/logging-winston/-/logging-winston-6.0.1.tgz#75be10ba7219abfcc771a363546c31f216584d99"
+  integrity sha512-tgA/qe/aGZITMrJ/5Tuykv234pLb/Qo6iDZ8SDkjbsiIy69mLQmbphrUd/IqnE17BSDfrwDUckvWdghiy8b+Qg==
   dependencies:
     "@google-cloud/logging" "^11.0.0"
     google-auth-library "^9.0.0"
