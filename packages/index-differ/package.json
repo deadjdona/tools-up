@@ -13,7 +13,7 @@
         "algoliasearch": "^5.25.0",
         "chart.js": "^2.8.0",
         "common": "^0.0.0",
-        "decode-uri-component": "^0.2.0",
+        "decode-uri-component": "^0.4.1",
         "dedent": "^0.7.0",
         "diff": "^4.0.1",
         "diff2html": "^3.4.5",

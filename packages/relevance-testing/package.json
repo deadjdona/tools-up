@@ -14,7 +14,7 @@
         "chart.js": "^2.8.0",
         "common": "^0.0.0",
         "d3-dsv": "^1.1.1",
-        "decode-uri-component": "^0.2.0",
+        "decode-uri-component": "^0.4.1",
         "dedent": "^0.7.0",
         "moment": "^2.24.0",
         "prismjs": "^1.15.0",
