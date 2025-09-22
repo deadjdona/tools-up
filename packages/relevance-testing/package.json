@@ -15,7 +15,7 @@
         "common": "^0.0.0",
         "d3-dsv": "^1.1.1",
         "decode-uri-component": "^0.4.1",
-        "dedent": "^0.7.0",
+        "dedent": "^1.7.0",
         "moment": "^2.24.0",
         "prismjs": "^1.15.0",
         "serve-static": "^2.2.0",
