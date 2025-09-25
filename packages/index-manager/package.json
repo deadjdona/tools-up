@@ -13,7 +13,7 @@
         "algoliasearch": "^5.25.0",
         "chart.js": "^4.5.0",
         "common": "^0.0.0",
-        "dedent": "^0.7.0",
+        "dedent": "^1.7.0",
         "moment": "^2.24.0",
         "prismjs": "^1.15.0",
         "serve-static": "^2.2.0",
