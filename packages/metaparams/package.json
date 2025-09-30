@@ -20,7 +20,7 @@
         "prismjs": "^1.15.0",
         "string-argv": "^0.3.2",
         "vue": "^3.5",
-        "vue-chartjs": "^3.4.2",
+        "vue-chartjs": "^5.3.2",
         "vue-input-autowidth": "^1.0.3",
         "vue-slider-component": "^3.1.2",
         "vue2-brace-editor": "^2.0.2",
