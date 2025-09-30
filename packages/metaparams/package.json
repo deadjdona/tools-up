@@ -12,7 +12,7 @@
         "algolia-filters-js-syntax-validator": "^1.0.2",
         "algoliasearch": "^5.25.0",
         "chart.js": "^4.5.0",
-        "chartjs-plugin-annotation": "^0.5.7",
+        "chartjs-plugin-annotation": "^3.1.0",
         "common": "^0.0.0",
         "copy-to-clipboard": "^3.2.0",
         "dedent": "^1.7.0",
