@@ -1995,6 +1995,13 @@
   resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.28.tgz#d45e01c4a56f143ee69c54dd6b12eade9e270a73"
   integrity sha512-8LduaNlMZGwdZ6qWrKlfa+2M4gahzFkprZiAt2TF8uS0qQgBizKXpXURqvTJ4WtmupWxaLqjRb2UCTe72mu+Aw==
 
+"@profoundlogic/hogan@^3.0.4":
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/@profoundlogic/hogan/-/hogan-3.0.4.tgz#30032a0172a911471965bca77772a95f71989d01"
+  integrity sha512-pmNVGuooS30Mm7YbZd5T7E5zYVO6D5Ct91sn4T39mUvMUc3sCGridcnhAufL1/Bz2QzAtzEn0agNrdk3+5yWzw==
+  dependencies:
+    nopt "1.0.10"
+
 "@protobufjs/aspromise@^1.1.1", "@protobufjs/aspromise@^1.1.2":
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/@protobufjs/aspromise/-/aspromise-1.1.2.tgz#9b8b0cc663d669a7d8f6f5d0893a14d348f30fbf"
@@ -4657,12 +4664,12 @@ diff-sequences@^29.6.3:
   integrity sha512-EjePK1srD3P08o2j4f0ExnylqRs5B9tJjcp9t1krH2qRi8CCdsYfwe9JgSLurFBWwq4uOlipzfk5fHNvwFKr8Q==
 
 diff2html@^3.4.5:
-  version "3.4.51"
-  resolved "https://registry.yarnpkg.com/diff2html/-/diff2html-3.4.51.tgz#6355170d09d8625525f0846be2c73bc2838ab797"
-  integrity sha512-/rVCSDyokkzSCEGaGjkkElXtIRwyNDRzIa3S8VUhR6pjk25p6+AMnb1s2zGmhjl66D5m/HnV3IeZoxnWsvTy+w==
+  version "3.4.55"
+  resolved "https://registry.yarnpkg.com/diff2html/-/diff2html-3.4.55.tgz#7b065d3ca0446b7edd2263d66a865bf9bbd3cea8"
+  integrity sha512-v7vi4Gluu7VtMNiHxZWyfnzRItkNPo1mxBzf2VnzZZccdN3gcl+4ZG8WBA7p4AkhPeeBcDItu9JF91o2HZkhlQ==
   dependencies:
+    "@profoundlogic/hogan" "^3.0.4"
     diff "^7.0.0"
-    hogan.js "3.0.2"
   optionalDependencies:
     highlight.js "11.9.0"
 
@@ -6169,14 +6176,6 @@ highlight.js@^10.7.1:
   version "10.7.3"
   resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-10.7.3.tgz#697272e3991356e40c3cac566a74eef681756531"
   integrity sha512-tzcUFauisWKNHaRkN4Wjl/ZA07gENAjFl3J/c480dprkGTg5EQstgaNFqBfUqCq54kZRIEcreTsAgF/m2quD7A==
-
-hogan.js@3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/hogan.js/-/hogan.js-3.0.2.tgz#4cd9e1abd4294146e7679e41d7898732b02c7bfd"
-  integrity sha512-RqGs4wavGYJWE07t35JQccByczmNUXQT0E12ZYV1VKYu5UiAU9lsos/yBAcf840+zrUQQxgVduCR5/B8nNtibg==
-  dependencies:
-    mkdirp "0.3.0"
-    nopt "1.0.10"
 
 hosted-git-info@^2.1.4:
   version "2.8.9"
@@ -7714,11 +7713,6 @@ minizlib@^2.1.1, minizlib@^2.1.2:
   dependencies:
     minipass "^3.0.0"
     yallist "^4.0.0"
-
-mkdirp@0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-0.3.0.tgz#1bbf5ab1ba827af23575143490426455f481fe1e"
-  integrity sha512-OHsdUcVAQ6pOtg5JYWpCBo9W/GySVuwvP9hueRMW7UqshC0tbfzLv8wjySTPm3tfUZ/21CE9E1pJagOA91Pxew==
 
 mkdirp@^0.5.6, mkdirp@~0.5.1:
   version "0.5.6"
